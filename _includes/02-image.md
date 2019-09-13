@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Ubuntu wallpaper](https://www.edubuntu.org/sites/default/files/docimages/wallpapers-oneiric/edubuntu-stargazer-full.png)
